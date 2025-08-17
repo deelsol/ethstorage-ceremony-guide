@@ -14,8 +14,3 @@ This repository contains a clear step-by-step guide to contribute to the **EthSt
 ## ⚡ Step 1: Install Phase2CLI  
 ```bash
 npm install -g @p0tion/phase2cli
-# ethstorage-ceremony-guide
-tep-by-step guide for contributing to the EthStorage V1 Trusted Setup Ceremony.
-export PATH=$PATH:$(npm prefix -g)/bin
-phase2cli --version
-phase2cli auth github
